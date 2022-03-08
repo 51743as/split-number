@@ -2,12 +2,9 @@
 Generator used for randomly spliting number into sum components
 
 # To install
-
 npm install split-number-to-sum-components
 
-
 # To use
-
 import {splitNumber, testDistribution} from 'split-number-to-sum-components';
 
 Example splitNumber:\
@@ -22,4 +19,8 @@ m = 3  \
 N = 1000\
 const distributionMap = testDistribution(M, m, N);\
 Result: It will give you a distribution map for N invocation times.
+
+# To publish to NPM
+npm login
+npm publish
 
