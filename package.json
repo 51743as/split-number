@@ -1,0 +1,19 @@
+{
+  "name": "split-number-to-sum-components",
+  "version": "1.0.5",
+  "description": "Generator used for randomly spliting number into sum components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/51743as/split-number.git"
+  },
+  "author": "Spasija Andova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/51743as/split-number/issues"
+  },
+  "homepage": "https://github.com/51743as/split-number#readme"
+}
